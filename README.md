@@ -1,7 +1,7 @@
 ### Hi there! I'm Jose Lopez &nbsp; 👋  &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/joselopez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-lo/)](https://www.linkedin.com/in/jose-lo/) &nbsp; [![Gmail](https://img.shields.io/badge/joselopez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:7mimira@gmail.com)](mailto:7mimira@gmail.com)
 
-- :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/jose-lo/
-- :heavy_check_mark: &nbsp; Based in Richmond, VA
+:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/jose-lo/
+:heavy_check_mark: &nbsp; Based in Richmond, VA
 
 ### Languages & Tools
 
